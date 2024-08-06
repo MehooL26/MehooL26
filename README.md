@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehul Gupta</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-<img align="right"alt="coding"width="400"src="https://neersyde.com/wp-content/uploads/2016/04/Computer_Science.jpg">
+<img align="right"alt="coding"width="400"src="https://images.app.goo.gl/HC7Snm2EGgG9iMPe8">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehool26" alt="mehool26" /></a> </p>
 
