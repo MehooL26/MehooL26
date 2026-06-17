@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehool26" alt="mehool26" /></a> </p>
 
-- 🔭 I’m currently working on **small self-made projects**
+- 🔭 I’m currently working on some**AI-driven projects involving FPGA**
 
-- 🌱 I’m currently learning **C/C++ in my first year**
+- 🌱 I’m currently learning **DSA in C++**
 
-- 👯 I’m looking to collaborate on **large team projects or solo projects as well**
+- 👯 I’m looking to collaborate on **large team projects**
 
 - 📫 Reaching me is quite an easy task - **mehulgupta.mg@yahoo.com**
 
