@@ -1,7 +1,9 @@
+<!-- ========================= BANNER ========================= -->
+
 <p align="center">
   <img
     src="images/ChatGPT Image Jul 17, 2026 at 01_19_10 AM.png"
-    alt="Mehul Gupta Banner"
+    alt="Mehul Gupta — RTL Design and AI Hardware"
     width="100%"
   />
 </p>
@@ -13,13 +15,65 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2500&pause=100&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=From+Python+%E2%86%92+To+Verilog;From+Algorithms+%E2%86%92+To+Silicon"
-      alt="From Python to Verilog and from Algorithms to Silicon"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2500&pause=100&center=true&vCenter=true&multiline=true&width=600&height=80&lines=From+Python+-%3E+To+Verilog;From+Algorithms+-%3E+To+Silicon"
+      alt="Typing SVG"
     />
   </a>
 </p>
 
-<br>
+
+<!-- ========================= ABOUT + FOCUS ========================= -->
+
+<table width="100%">
+  <tr>
+    <td width="52%" valign="top">
+
+<h3 align="center">⚡ About Me</h3>
+
+<p>
+Third-year VLSI student at <b>Thapar Institute of Engineering and Technology</b>, interested in designing efficient digital systems and AI hardware.
+</p>
+
+<p>
+Currently converting an MNIST neural network from a Python fixed-point model into synthesizable Verilog RTL.
+</p>
+
+<p>
+I also build backend systems using FastAPI, SQLite and AI APIs.
+</p>
+
+</td>
+
+<td width="48%" valign="top">
+
+<h3 align="center">🎯 Current Focus</h3>
+
+<p>
+⚙️ &nbsp;<b>RTL Design and Verilog</b>
+</p>
+
+<p>
+🧠 &nbsp;<b>AI Hardware Accelerators</b>
+</p>
+
+<p>
+💻 &nbsp;<b>Computer Architecture</b>
+</p>
+
+<p>
+🔬 &nbsp;<b>ASIC and FPGA Design</b>
+</p>
+
+<p>
+🐧 &nbsp;<b>Linux and Development Tools</b>
+</p>
+
+</td>
+  </tr>
+</table>
+
+
+<!-- ========================= CONNECT ========================= -->
 
 <h2 align="center">Connect With Me</h2>
 
@@ -46,7 +100,8 @@
   </a>
 </p>
 
-<br>
+
+<!-- ========================= LANGUAGES & TOOLS ========================= -->
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
@@ -67,27 +122,83 @@
   <img src="https://img.shields.io/badge/VS%20Code-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-<br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- ========================= PROJECTS ========================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>🧠 AI Hardware Accelerator</h3>
+
+<p>
+Fixed-point MNIST accelerator being developed from Python simulation to Verilog RTL.
+</p>
+
+<p>
+<b>Python • Verilog • TensorFlow • Q8.8</b>
+</p>
+
+<p>
+<a href="YOUR_AI_ACCELERATOR_REPOSITORY">
+  <img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📄 Document Verification Chatbot</h3>
+
+<p>
+AI-powered document classification, validation and conversational verification platform.
+</p>
+
+<p>
+<b>FastAPI • SQLite • Python • AI APIs</b>
+</p>
+
+<p>
+<a href="YOUR_DOCUMENT_VERIFIER_REPOSITORY">
+  <img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+  </tr>
+</table>
+
+
+<!-- ========================= GITHUB STATS ========================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=MehooL26&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&rank_icon=github"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=MehooL26&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"
     alt="Mehul Gupta GitHub statistics"
   />
   <img
-    width="41%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehooL26&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehooL26&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=6"
     alt="Mehul Gupta most used languages"
   />
 </p>
 
 <p align="center">
   <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=MehooL26&theme=github-dark-blue&hide_border=true&border_radius=12"
+    src="https://streak-stats.demolab.com?user=MehooL26&theme=github-dark-blue&hide_border=true&border_radius=10"
     alt="Mehul Gupta GitHub contribution streak"
   />
+</p>
+
+
+<!-- ========================= FOOTER ========================= -->
+
+<p align="center">
+  <b>Building intelligent hardware, one project at a time.</b>
 </p>
