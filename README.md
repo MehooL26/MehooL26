@@ -30,23 +30,17 @@ VLSI Student • RTL Design • AI Hardware • Computer Architecture
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Verilog-0A192F?style=for-the-badge&logoColor=36BCF7&labelColor=0A192F&color=36BCF7" />
-<img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0A192F&color=36BCF7" />
-<img src="https://img.shields.io/badge/C++-0A192F?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0A192F&color=36BCF7" />
-<img src="https://img.shields.io/badge/C-0A192F?style=for-the-badge&logo=c&logoColor=white&labelColor=0A192F&color=36BCF7" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FastAPI-0A192F?style=for-the-badge&logo=fastapi&logoColor=00C7B7&labelColor=0A192F&color=36BCF7" />
-<img src="https://img.shields.io/badge/SQLite-0A192F?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0A192F&color=36BCF7" />
-<img src="https://img.shields.io/badge/TensorFlow-0A192F?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0A192F&color=36BCF7" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0A192F&color=36BCF7" />
-<img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F&color=36BCF7" />
-<img src="https://img.shields.io/badge/Linux-0A192F?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0A192F&color=36BCF7" />
-<img src="https://img.shields.io/badge/VS_Code-0A192F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0A192F&color=36BCF7" />
+<img src="https://img.shields.io/badge/Verilog-071A2F?style=for-the-badge&color=1E5EFF&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-071A2F?style=for-the-badge&color=1E5EFF&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-071A2F?style=for-the-badge&color=1E5EFF&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-071A2F?style=for-the-badge&color=1E5EFF&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-071A2F?style=for-the-badge&color=1E5EFF&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-071A2F?style=for-the-badge&color=1E5EFF&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-071A2F?style=for-the-badge&color=1E5EFF&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-071A2F?style=for-the-badge&color=1E5EFF&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-071A2F?style=for-the-badge&color=1E5EFF&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-071A2F?style=for-the-badge&color=1E5EFF&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-071A2F?style=for-the-badge&color=1E5EFF&logo=visualstudiocode&logoColor=white"/>
 
 </p>
 
