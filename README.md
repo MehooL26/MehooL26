@@ -21,158 +21,82 @@
   </a>
 </p>
 
+---
 
-<!-- ========================= ABOUT + FOCUS ========================= -->
-
-<table width="100%">
-  <tr>
-    <td width="52%" valign="top">
-
-<h3 align="center">⚡ About Me</h3>
-
-<p>
-Third-year VLSI student at <b>Thapar Institute of Engineering and Technology</b>, interested in designing efficient digital systems and AI hardware.
-</p>
-
-<p>
-Currently converting an MNIST neural network from a Python fixed-point model into synthesizable Verilog RTL.
-</p>
-
-<p>
-I also build backend systems using FastAPI, SQLite and AI APIs.
-</p>
-
-</td>
-
-<td width="48%" valign="top">
-
-<h3 align="center">🎯 Current Focus</h3>
-
-<p>
-⚙️ &nbsp;<b>RTL Design and Verilog</b>
-</p>
-
-<p>
-🧠 &nbsp;<b>AI Hardware Accelerators</b>
-</p>
-
-<p>
-💻 &nbsp;<b>Computer Architecture</b>
-</p>
-
-<p>
-🔬 &nbsp;<b>ASIC and FPGA Design</b>
-</p>
-
-<p>
-🐧 &nbsp;<b>Linux and Development Tools</b>
-</p>
-
-</td>
-  </tr>
-</table>
-
-
-<!-- ========================= CONNECT ========================= -->
-
-<h2 align="center">Connect With Me</h2>
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  &nbsp;
-  <a href="mailto:mehulgupta.mg@yahoo.com">
-    <img
-      src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-  &nbsp;
-  <a href="https://github.com/MehooL26">
-    <img
-      src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-</p>
-
-
-<!-- ========================= LANGUAGES & TOOLS ========================= -->
-
-<h2 align="center">🛠️ Languages & Tools</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Verilog-0A66C2?style=for-the-badge&logoColor=white" alt="Verilog" />
-  <img src="https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0A66C2?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-0A66C2?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/FastAPI-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQLite-0A66C2?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-0A66C2?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Git-0A66C2?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-0A66C2?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-
-
-<!-- ========================= PROJECTS ========================= -->
-
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+<tr>
 
-<h3>🧠 AI Hardware Accelerator</h3>
+<td width="50%" valign="top">
 
-<p>
-Fixed-point MNIST accelerator being developed from Python simulation to Verilog RTL.
-</p>
+### 🚀 Who I Am
 
-<p>
-<b>Python • Verilog • TensorFlow • Q8.8</b>
-</p>
-
-<p>
-<a href="YOUR_AI_ACCELERATOR_REPOSITORY">
-  <img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
+- 🎓 Third-year VLSI student at **Thapar Institute of Engineering and Technology**
+- ⚙️ Interested in **RTL Design, ASIC Design and AI Hardware**
+- 🧠 Building an **AI Hardware Accelerator** from Python to Verilog RTL
+- 💻 Backend developer with **FastAPI, SQLite and AI APIs**
+- 📚 Currently learning **Computer Architecture, Digital Design and Linux**
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>📄 Document Verification Chatbot</h3>
+### 🎯 Current Focus
 
-<p>
-AI-powered document classification, validation and conversational verification platform.
-</p>
-
-<p>
-<b>FastAPI • SQLite • Python • AI APIs</b>
-</p>
-
-<p>
-<a href="YOUR_DOCUMENT_VERIFIER_REPOSITORY">
-  <img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
+| Domain | Progress |
+|:-------|:--------:|
+| Verilog RTL | 🟩🟩🟩🟩⬜ |
+| AI Hardware | 🟩🟩🟩🟩⬜ |
+| Computer Architecture | 🟩🟩🟩⬜⬜ |
+| ASIC Design | 🟩🟩🟩⬜⬜ |
+| Linux | 🟩🟩🟩⬜⬜ |
 
 </td>
-  </tr>
+
+</tr>
 </table>
 
+---
 
-<!-- ========================= GITHUB STATS ========================= -->
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mehulgupta.mg@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/MehooL26">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Verilog-0A66C2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-0A66C2?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-0A66C2?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-0A66C2?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-0A66C2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-0A66C2?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-0A66C2?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -180,25 +104,43 @@ AI-powered document classification, validation and conversational verification p
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api?username=MehooL26&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"
-    alt="Mehul Gupta GitHub statistics"
   />
+
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehooL26&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=6"
-    alt="Mehul Gupta most used languages"
   />
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=MehooL26&theme=github-dark-blue&hide_border=true&border_radius=10"
-    alt="Mehul Gupta GitHub contribution streak"
   />
 </p>
 
+---
 
-<!-- ========================= FOOTER ========================= -->
+<h2 align="center">📈 Learning Journey</h2>
 
 <p align="center">
-  <b>Building intelligent hardware, one project at a time.</b>
-</p>
+
+```text
+Python
+   │
+   ▼
+Machine Learning
+   │
+   ▼
+Fixed-Point Arithmetic
+   │
+   ▼
+Verilog RTL
+   │
+   ▼
+Computer Architecture
+   │
+   ▼
+ASIC Design
+   │
+   ▼
+AI Hardware Accelerators
