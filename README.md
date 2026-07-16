@@ -25,3 +25,16 @@ VLSI Student • RTL Design • AI Hardware • Computer Architecture
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,linux,vscode,fastapi,tensorflow,sqlite" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://cdn.simpleicons.org/verilog/36BCF7" height="48" alt="Verilog"/>
+</p>
