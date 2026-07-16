@@ -1,5 +1,5 @@
 <p align="center">
-  ChatGPT Image Jul 17, 2026 at 01_16_36 AM.png
+  https://github.com/MehooL26/github-assets/blob/main/ChatGPT%20Image%20Jul%2017,%202026%20at%2001_16_36%20AM.png?raw=true
 </p>
 <h3 align="center">A passionate coder from India</h3>
 
