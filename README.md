@@ -10,37 +10,18 @@ VLSI Student • RTL Design • AI Hardware • Computer Architecture
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2500&pause=100&center=true&vCenter=true&multiline=true&width=600&height=80&lines=From+Python+-%3E+To+Verilog;From+Algorithms+-%3E+To+Silicon" alt="Typing SVG" /></a>
 </p>
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
+<h2 align="center">Connect With Me</h2>
 
-<h2>⚡ About Me</h2>
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<p>
-I’m a VLSI student focused on <b>RTL Design, AI Hardware and Computer Architecture</b>.
+  <a href="mailto:mehulgupta.mg@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/MehooL26">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
-<p>
-Currently building an <b>MNIST hardware accelerator</b>, moving from a Python model to fixed-point Verilog implementation.
-</p>
-
-<p>
-I also work on backend systems using <b>FastAPI, SQLite and AI APIs</b>.
-</p>
-
-    </td>
-
-    <td width="45%" valign="top">
-
-<h2>🚀 Current Focus</h2>
-
-<p>▸ AI Hardware Accelerators</p>
-<p>▸ Verilog & RTL Design</p>
-<p>▸ Digital Logic</p>
-<p>▸ Computer Architecture</p>
-<p>▸ Backend Development</p>
-
-    </td>
-  </tr>
-</table>
-
