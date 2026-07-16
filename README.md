@@ -29,3 +29,14 @@ VLSI Student • RTL Design • AI Hardware • Computer Architecture
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,linux,vscode,fastapi,sqlite,tensorflow" />
 </p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MehooL26&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehooL26&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MehooL26&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
