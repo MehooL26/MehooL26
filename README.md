@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehul Gupta</h1>
+https://github.com/MehooL26/github-assets/blob/main/ChatGPT%20Image%20Jul%2017%2C%202026%20at%2001_16_36%20AM.png
 <h3 align="center">A passionate coder from India</h3>
 
 <img align="right"alt="coding"width="400"src="https://images.app.goo.gl/HC7Snm2EGgG9iMPe8">
