@@ -26,8 +26,28 @@ VLSI Student • RTL Design • AI Hardware • Computer Architecture
   </a>
 </p>
 
+<h2 align="center">🛠️ Languages & Tools</h2>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,linux,vscode,fastapi,sqlite,tensorflow" />
+
+<img src="https://img.shields.io/badge/Verilog-0A192F?style=for-the-badge&logoColor=36BCF7&labelColor=0A192F&color=36BCF7" />
+<img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0A192F&color=36BCF7" />
+<img src="https://img.shields.io/badge/C++-0A192F?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0A192F&color=36BCF7" />
+<img src="https://img.shields.io/badge/C-0A192F?style=for-the-badge&logo=c&logoColor=white&labelColor=0A192F&color=36BCF7" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FastAPI-0A192F?style=for-the-badge&logo=fastapi&logoColor=00C7B7&labelColor=0A192F&color=36BCF7" />
+<img src="https://img.shields.io/badge/SQLite-0A192F?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0A192F&color=36BCF7" />
+<img src="https://img.shields.io/badge/TensorFlow-0A192F?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0A192F&color=36BCF7" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0A192F&color=36BCF7" />
+<img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F&color=36BCF7" />
+<img src="https://img.shields.io/badge/Linux-0A192F?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0A192F&color=36BCF7" />
+<img src="https://img.shields.io/badge/VS_Code-0A192F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0A192F&color=36BCF7" />
+
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
